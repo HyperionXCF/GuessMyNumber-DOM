@@ -1,8 +1,10 @@
 # DOM Manipulation Snippets
 ><br>
 > Prerequisites for Learning DOM <br>
-> 1. Know Basic HTML <br>
-> 2. HTML element classes and IDs<br>
+> 1. Basic HTML. <br>
+> 2. Classes and IDs of HTML elements. <br>
+> 3. Basics of JS function and Function expressions. <br> 
+> 4. Basic Understanding of how Objects in JS works and Object Methods.
 ><br>
 DOM stands for document object model.
 every index.html file is stored as a tree structure where each node is an HTML element. <br> DOM is Structured representation for HTML Document.
