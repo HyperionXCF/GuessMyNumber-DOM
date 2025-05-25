@@ -18,8 +18,7 @@ this tree is basically stored as a JavaScript Object & then we can manipulate th
 > <br>
 > How All this works Behind-The-Scene {only for curious people!} <br>
 > So whenever a HTML file is loaded on the browser, the browser automatically creates a document object and tree structure. <br>
-> Each DOM always starts with the document object. (first node will be document node.) <br>
-<br>
+> Each DOM always starts with the document object. (first node will be document node.) <br> 
 > DOM nodes can represent <br>
 > 1. HTML elements <br>
 > 2. Comments <br>
